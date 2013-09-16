@@ -1,0 +1,6 @@
+title pruebas
+multiplicity 1
+geometry cartesian bohr
+ O         -0.004007    0.000000   -0.003104
+ H          0.002450    0.000000    0.958975
+ H          0.929136    0.000000   -0.237373
