@@ -1,0 +1,75 @@
+ ******************************************************************************
+ ******************************************************************************
+ ***                                                                        ***
+ ***                              PROGRAM deMon2k                           ***
+ ***                                                                        ***
+ ***                        (VERSION 4.1.4, July 2012)                      ***
+ ***                                                                        ***
+ ***     COPYRIGHT (C) BY THE INTERNATIONAL DEMON DEVELOPERS COMMUNITY      ***
+ ***                                                                        ***
+ ***    AUTHORS: A.M. Koster, G. Geudtner, P. Calaminici, M.E. Casida,      ***
+ ***             J. Carmona-Espindola, V.D. Dominguez, R. Flores-Moreno,    ***
+ ***             G.U. Gamboa, A. Goursot, T. Heine, A. Ipatov, F. Janetzko, ***
+ ***             J.M. del Campo, J.U. Reveles, J.M. Vasquez-Perez, A. Vela, ***
+ ***             B. Zuniga-Gutierrez and D.R. Salahub                       ***
+ ***                                                                        ***
+ ******************************************************************************
+ ******************************************************************************
+
+
+ FIRST TIMING                     STEP TIME:         0  TOTAL TIME:           0
+
+ INITIALIZATION                   STEP TIME:     0.002  TOTAL TIME:       0.002
+
+ *******************************************************************************
+
+ null
+
+ *******************************************************************************
+
+
+ *** MOLECULE DATA ***
+
+ MOLECULAR CHARGE: 0
+ MOLECULAR MULTIPLICITY: 0
+ NUMBER OF ATOMS: 3
+ NUMBER OF ELECTRONS: 0
+
+ *** SCF OPTIONS ***
+
+ SCF THEORY: RESTRICTED KOHN-SHAM (RKS)
+ DIAGONALIZER: DSYEV
+ START GUESS: HUECKEL DENSITY
+ SCF TOLERANCE: 1.0E-5
+ POTENTIAL DENSITY: FITTED DENSITY
+ NUMBER OF SCF ITERATIONS: 100
+ DIIS ACCELERATION: ON
+
+
+
+ *** GEOMETRY ***
+
+ INPUT ORIENTATION in BOHR
+
+  NO.  ATOM        X              Y              Z        Z-ATOM   MASS   OPTXYZ
+
+    1  O        -0.004007       0.000000      -0.003104        8   15.999     0
+    2  H         0.002450       0.000000       0.958975        1    1.008     0
+    3  H         0.929136       0.000000      -0.237373        1    1.008     0
+
+ INPUT                            STEP TIME:     0.009  TOTAL TIME:       0.011
+
+
+
+ *** GEOMETRY ***
+
+ INPUT ORIENTATION in BOHR
+
+  NO.  ATOM        X              Y              Z        Z-ATOM   MASS   OPTXYZ
+
+    1  O        -0.004007       0.000000      -0.003104        8   15.999     0
+    2  H         0.002450       0.000000       0.958975        1    1.008     0
+    3  H         0.929136       0.000000      -0.237373        1    1.008     0
+
+ SYMMETRY ANALISIS                STEP TIME:     0.004  TOTAL TIME:       0.015
+
