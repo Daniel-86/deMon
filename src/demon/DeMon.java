@@ -255,7 +255,7 @@ public class DeMon {
     }
 
 
-    public void generateOrbitalPointers(Atomo[] atoms) {
-        for(int i_atom = 1, i_sto = 0; i_sto < n_sto; i_sto++)
-    }
+//    public void generateOrbitalPointers(Atomo[] atoms) {
+//        for(int i_atom = 1, i_sto = 0; i_sto < n_sto; i_sto++)
+//    }
 }

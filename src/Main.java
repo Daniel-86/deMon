@@ -39,7 +39,7 @@ public class Main {
 
 
 //        System.out.println("TESTSTEEST");
-        deMon.doSymmetryAnalysis();
+//        deMon.doSymmetryAnalysis();
         deMon.timer .doMark(false);
         deMon.printSymmetryAnalisis();
         deMon.printer.printMessage(deMon.timer.printLastStep("SYMMETRY ANALISIS"));
